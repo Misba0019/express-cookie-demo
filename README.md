@@ -51,8 +51,16 @@ node index.js
 ```
 The app will be available at [http://localhost:3000/products](http://localhost:3000/products).
 
+---
+
 ## Learning Outcomes
 
 - Understanding signed vs unsigned cookies
 - Using Express middleware effectively
 - Following best practices with environment variables
+
+---
+
+## License
+
+This project is licensed under the MIT LICENSE - see the [LICENSE](LICENSE) file for details.
